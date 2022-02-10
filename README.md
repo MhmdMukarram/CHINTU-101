@@ -1,71 +1,116 @@
-# Now You Can Deploy CyberQueen WhatsApp BOT
- 
+</a></p>
+<div align="center"><img src="https://profile-counter.glitch.me/MhmdMukarram/count.svg" /><br>Profile Viewers</div>
 
-## Hi there I am ᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ v3.8.4
-
- 
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+RED-ALPHA+WHATSAPP+BOT."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/93ad01498bf67b9e261e0.jpg" width="480" height="350"/>
   <p align="center">
-<a href="#"><img title="Cyber Queen" src="https://img.shields.io/badge/CyberQueen-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=RED-ALPHA+BOT+WAS+DEVELOPED+BY+MHMD+MUKARRAM."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+<div align="center">
+  <p align="center">   
+    ## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=RED-ALPHA+BOT+WAS+FORK+FROM+Queen-Mizuki."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+<div align="center">
+  <p align="center"> 
+
+    
+# RED-ALPHA-BOT
+
+<div align="center">
+  <img border-radius: 15px src="https://tenor.com/view/whenyouseeyourenemy-wolves-blue-red-gif-19635524.gif" width="500" height="600"/>
+   <p align="center">
+<a href="#"><img title= redalpha src="https://img.shields.io/badge/RED-ALPHA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/SLTechnicalTips"><img title="Author" src="https://img.shields.io/badge/Author-SLTechnicalTips/?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/MhmdMukarram"><img title="Author" src="https://img.shields.io/badge/Author-mhmdmukarram/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
-
-
- 
-
 <p align="center">
-    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
+Project created by <a href="https://github.com/MhmdMukarram">RED-ALPHA</a> to make it public
     <br>
-        <a href="https://chat.whatsapp.com/BzQiMPrabddJ4RfulG5888">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/SLTechnicalTips">Youtube Channel</a>
-    <br>
+       | © |
+        Reserved |
+    <br> 
 </p>
- 
- 
+
+----
+
+  <p align="center">
+  <a href="https://github.com/farhan-dqz">
+    <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">ls
+<p align="center">
+<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+</p>
+
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j)
+  <div align="center">
+       
+
+  </div
+    
 ## Setup
 <div align="center">
 
   ### Simple Method
   
- [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NICONico6/CyberQueen-QR?v=1)
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen) 
-  
+> scan  QR Code ✏
+<div align="left"><a href="https://replit.com/@MhmdMukarram1/CHINTU-QR?v=1"><img src="https://i.ibb.co/5L3L19w/IMG-20211205-075024.jpg" width="150" ></a></div>
 
- 
+> Deploy Your Bot On Heroku ✏
 
-  <p align="center">
-  <a href="https://github.com/SLTechnicalTips/CyberQueen">
-    
+<div align="left"><a href="http://heroku.com/deploy?template=https://github.com/MhmdMukarram/CHINTU-101"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
+      
+     
+<br>
+<br >
 
-    
- ## Developer
+
+### ⚠️ Warning! 
+```
+කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න,
+தயவு செய்து மேலே உள்ள whatsapp Logoவை click செய்து bot support group இல் join செய்து கொள்ளுங்கள்
+CREATED BY MHMD MUKARRAM
+```
+
+## QUEEN MIZUKI BOT CREATER
   <div align="center">
     
-  [![NICO](https://github.com/sltechnicaltips.png?size=100)](https://github.com/SLTechnicalTips)
+  [![MR.JOKA-THEJAKA](https://avatars.githubusercontent.com/u/84589571?v=4.jpg?size=100)](https://avatars.githubusercontent.com/u/84589571?v=4.jpg) |  [MR.JOKA](https://github.com/MrJoka-Thejaka)
+----|----|----
+[THEJAKA](https://github.com/MrJoka-Thejaka)  
 
-[Nico @SL Technical Tips](https://github.com/sltechnicaltips)  
   </div>
     
-## Thanks for Everything 
-### I'll always remember you ❤️❤️❤️
-- [Sisula Welgamage](https://github.com/sisula)
- 
-   
-## Profile Viewers
-<div align="center"><img src="https://profile-counter.glitch.me/SLTechnicalTips/count.svg" /></div>
-
-## 📢 Guide
-Click WA logo to Join Public Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HB1qciGHnMtEIpicPkzwpd)
-  <div align="center">
-       
 
 
 ## License
@@ -73,41 +118,3 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
-```
-CyberQueen bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
-ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
-ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
-පළමු උපාංගයෙන් ඔබට Cyber Queen Bot install කිරීමට අවශ්‍යයි..
-```
-    
-## 🚀F.A.Q
-නිතර අසන ප්‍රශ්න කිහිපයකට පිළිතුරු සපයන්න;
-
-### ඔබට මගේ පණිවිඩ කියවිය හැකිද??
-මෙම ව්‍යාපෘතිය විවෘත කේතයක් බැවින් සියලු කේත පැහැදිලි වේ. අඩු හෝ වැඩි නොවේ; ඔබට අවශ්‍ය දේ බැලීමට ඔබට හැකිය. **අපට ඔබගේ ගිණුම් වලට ප්‍රවේශයක් නොමැත.**
-
-### 🔒අපේ ආරක්ෂාව ගැන කුමක් කිව හැකිද?
-ඔබ ආරක්ෂාව ගැන සැලකිලිමත් වන්නේ නම්, ඔබට එය ඔබේම පරිගණකයකින් install කළ හැකිය. වෙනත් අයෙකු ඔබගේ දත්ත ග්‍රහණය කර ගෙන ඇතැයි ඔබ සිතන්නේ නම්, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
-
-### 💰මෙම බොට් ගෙවිය යුතුද?
-**ඇත්ත වශයෙන්ම නැත.*** එය කිසි විටෙකත් සිදු නොවේ.
-
-### ❓ඔබට මෙය නැවත සංස්කරණය කළ හැකිද??
-***අනිවාර්යයෙන් ඔබට හැකියි.*** නමුත් අපෙන් ඔබට කිසිදු සහයක් නොමැත.
-
-### ⚠️ Warning! 
-```
-පරිශීලක බොට් නිසා; ඔබගේ WhatsApp ගිණුම banned කළ හැකිය.
-මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය. 
-නියත වශයෙන්ම
-```
-
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, CyberQueen executives do not accept responsibility.
-By establishing the CyberQueen, you are deemed to have accepted these responsibilities.
-```
-
