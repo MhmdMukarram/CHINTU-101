@@ -1,14 +1,14 @@
 { 
-	"name": "CyberQueen v3.8.4",
-	"description": "Cyber Queen - Makes it easy and fun to use Whatsapp. An userbot made for WhatsApp.",
-	"logo": "https://i.ibb.co/J3FK9zw/image.png",
+	"name": "Chintu Bot",
+	"description": "Chintu Bot Created By Red Alpha. Chintu Bot - Makes it easy and fun to use Whatsapp. An userbot made for WhatsApp.",
+	"logo": "https://i.ibb.co/JjmP8K2/LOGO.jpg",
 	"keywords": ["whatsapp", "userbot", "cyber", "queen", "bot", "api", "ai"],
-	"repository": "https://github.com/SLTechnicalTips/CyberQueen",
-	"website": "https://youtube.com/SLTechnicalTips",
-	"success_url": "https://chat.whatsapp.com/HB1qciGHnMtEIpicPkzwpd",         
+	"repository": "https://github.com/MhmdMukarram/CHINTU-101",
+	"website": "https://t.me/redalphachatgroup",
+	"success_url": "https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j",         
 	"stack": "container",
 	"env": {
-		"_CYBER_SESSION": {
+		"_CHINTU_SESSION": {
 			"description": "Qr කේතය scan කළ පසුව ලැබෙන කේතය.",
 			"required": true
 		},
@@ -34,7 +34,7 @@
                 "RULES_LOGO": {
 			"description": "Rules වල ලොගො එක",
 			"required": true,
-			"value": "https://i.ibb.co/268z6QF/R.jpg"
+			"value": "https://i.ibb.co/JjmP8K2/LOGO.jpg"
 		},
 		"HANDLERS": {
 			"description": "බොට්ට කමාන්ඩ් එකක් දෙද්දි මුලට දාන්න ඕනෙ සලකුණ. මේකට තොගයක් දාන්න එපා...",
@@ -49,12 +49,12 @@
 		"ALIVE_LOGO": {
 			"description": "එය ඔබගේ ALIVE LOGO වෙනස් කරයි...ඔබ කැමති image https://telegra.ph upload කර ලින්ක් දෙන්න.",
 			"required": true,
-			"value": "https://telegra.ph/file/93ad01498bf67b9e261e0.jpg"
+			"value": "https://i.ibb.co/JjmP8K2/LOGO.jpg"
 		},
 		"CUS_PANEL": {
 			"description": "එය ඔබගේ menu එක ලබා ගැනීමට ඔබට අවශ්‍ය කමාන්ඩ් එකක් ඇඩ් කරයි.ඔබ කැමති command එකක් යොදන්න. Ex:- mizuki",
 			"required": false,
-			"value": "cyber"	
+			"value": "chintu"	
 			
 		},
                 "ANTIGRP_LINK": {
