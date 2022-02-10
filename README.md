@@ -102,16 +102,6 @@ Click WA logo to Join Support Group 👇
 CREATED BY MHMD MUKARRAM
 ```
 
-## QUEEN MIZUKI BOT CREATER
-  <div align="center">
-    
-  [![MR.JOKA-THEJAKA](https://avatars.githubusercontent.com/u/84589571?v=4.jpg?size=100)](https://avatars.githubusercontent.com/u/84589571?v=4.jpg) |  [MR.JOKA](https://github.com/MrJoka-Thejaka)
-----|----|----
-[THEJAKA](https://github.com/MrJoka-Thejaka)  
-
-  </div>
-    
-
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
